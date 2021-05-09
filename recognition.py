@@ -34,7 +34,7 @@ Builder.load_string("""
             on_press: root.capture()
 """)
 
-model_path = 'models/small_model'
+model_path = 'models/larger_model'
 
 
 class CameraClick(BoxLayout):
