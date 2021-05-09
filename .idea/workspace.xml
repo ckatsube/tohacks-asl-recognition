@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a38fbf67-c475-4b06-a12d-f491a12736d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dict.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tflite_metadata.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/a1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/b1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/c1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/d1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/d2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/e1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/e2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/f1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/g1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/h1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/i1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/k1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/l1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/m1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/n1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/o1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/p1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/q1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/r1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/s1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/test_data/t1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="bddb2c06-87b5-4018-8c31-2437d65a8ac3" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit e96a8261" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +34,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1sGWw2JR7mz2QgLLYZyELYzITnt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,12 +50,64 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/asl_alphabet_2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\Python\GitProjects\TOHacks2021\assets\test_data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\Python\GitProjects\TOHacks2021\assets\test_data" />
       <recent name="C:\Programming\Python\GitProjects\TOHacks2021\models\ab_model" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.image_test_model">
+    <configuration name="evaluate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TOHacks2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workers/evaluate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_test_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TOHacks2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_test_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.image_test_model" />
+        <item itemvalue="Python.evaluate" />
+        <item itemvalue="Python.image_test_model" />
+        <item itemvalue="Python.classify_image" />
+        <item itemvalue="Python.classify_image" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
