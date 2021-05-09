@@ -18,7 +18,7 @@ def evaluate_model(model: ClassificationModel, images: list) -> None:
         result, confidence = model.run(img)
         if confidence > 0.5:
             print("Classification result: ", result)
-            if file_name[0].upper() == result:
+            if file_name[0].upper() == result or ("space" in file_name and result == "space"):
                 print("Correct classification!")
                 correct.append(1)
             else:
@@ -33,4 +33,4 @@ def evaluate_model(model: ClassificationModel, images: list) -> None:
                 print("Incorrect classification")
                 correct.append(0)
 
-    print(sum(correct) / len(correct))
+    print("Test accuracy:", sum(correct) / len(correct))

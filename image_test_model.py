@@ -9,7 +9,7 @@ from workers import image_classification
 from workers.evaluate import ClassificationModel
 
 import sys
-sys.argv = ["image_test_model.py", "models/small_model", "assets/test_data"]
+sys.argv = ["image_test_model.py", "models/larger_model", "assets/test_data"]
 
 directory_parser = argparse.ArgumentParser()
 directory_parser.add_argument("tfliteModelPath")

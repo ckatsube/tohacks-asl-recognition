@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a38fbf67-c475-4b06-a12d-f491a12736d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_test_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workers/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/workers/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workers/image_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/workers/image_classification.py" afterDir="false" />
     </list>
     <list id="bddb2c06-87b5-4018-8c31-2437d65a8ac3" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit e96a8261" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +60,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="image_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TOHacks2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workers/image_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="image_test_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TOHacks2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,10 +99,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.image_test_model" />
-        <item itemvalue="Python.evaluate" />
         <item itemvalue="Python.image_test_model" />
-        <item itemvalue="Python.classify_image" />
-        <item itemvalue="Python.classify_image" />
+        <item itemvalue="Python.image_test_model" />
+        <item itemvalue="Python.image_classification" />
+        <item itemvalue="Python.image_test_model" />
       </list>
     </recent_temporary>
   </component>

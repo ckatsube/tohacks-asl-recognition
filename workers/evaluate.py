@@ -65,7 +65,6 @@ class ClassificationModel:
         new_img = cv2.resize(image, self.get_image_dimension())
         test_img = np.expand_dims(new_img, axis=0)
         assert np.all(test_img.shape == self._input_details['shape'])
-        breakpoint()
 
         self._interpreter.set_tensor(classification_predictor_index, test_img)
         self._interpreter.invoke()
