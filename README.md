@@ -1,5 +1,11 @@
 # tohacks-asl-recognition
 
+## Authors
+Yeong Jae Ryu
+Eunchae Seong
+Taewoong Oh
+Craig Katsube
+
 ## Citations
 Training Data and Test Data primarily downloaded from:
 
