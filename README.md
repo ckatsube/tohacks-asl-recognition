@@ -2,8 +2,11 @@
 
 ## Authors
 Yeong Jae Ryu
+
 Eunchae Seong
+
 Taewoong Oh
+
 Craig Katsube
 
 ## Citations
